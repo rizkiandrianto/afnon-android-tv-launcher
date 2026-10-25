@@ -4,6 +4,9 @@ All notable changes to Afnon. Versions match `versionName` in `app/build.gradle`
 
 ## [Unreleased]
 
+### Added
+- Indonesia: every province capital and the other big cities (48 in all, Tangerang among them), largest first.
+
 ## [0.6] - 2026-10-25
 
 ### Added
